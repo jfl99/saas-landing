@@ -3,7 +3,7 @@ const nextConfig = {
   output: 'export',  // <=== enables static exports
   // reactStrictMode: true,
   // Add basePath
-  basePath: '/saas-landing',
+  // basePath: '/saas-landing',
 };
 
 module.exports = nextConfig;
